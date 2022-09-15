@@ -1,4 +1,5 @@
 # Record-management-system
+I have uploaded a python file, which have the logic of this code.
 ** You dont need to install it, Run when you click.
 
 How to use this application:
