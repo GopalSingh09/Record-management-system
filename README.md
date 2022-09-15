@@ -1,5 +1,6 @@
 # Record-management-system
 I have uploaded a python file, which have the logic of this code.
+Remember to download the folder "Management system", All the files will be stored in this folder.
 ** You dont need to install it, Run when you click.
 
 How to use this application:
